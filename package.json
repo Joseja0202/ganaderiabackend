@@ -1,0 +1,30 @@
+{
+  "name": "ganaderiabackend",
+  "version": "1.0.0",
+  "description": "Jose Javier",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joseja0202/ganaderiabackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joseja0202/ganaderiabackend/issues"
+  },
+  "homepage": "https://github.com/Joseja0202/ganaderiabackend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
